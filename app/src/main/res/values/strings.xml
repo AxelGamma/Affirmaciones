@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Ingenieria en Sistemas Computacionales</string>
+    <string name="affirmation2">Ingenieria Ambiental</string>
+    <string name="affirmation3">Ingenieria Electrica</string>
+    <string name="affirmation4">Ingenieria Electronica</string>
+    <string name="affirmation5">Ingenieria en Geociencias</string>
+    <string name="affirmation6">Ingenieria en Gestion Empresarial</string>
+    <string name="affirmation7">Ingenieria Industrial</string>
+    <string name="affirmation8">Ingenieria Mecanica</string>
+    <string name="affirmation9">Ingenieria Petrolera</string>
+    <string name="affirmation10">Ingenieria Quimica</string>
+</resources>
